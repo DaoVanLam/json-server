@@ -1,0 +1,296 @@
+{
+  "getCaptcha": {
+    "respDesc": "SUCCESS",
+    "captChaId": "c5058a59b3fee74b59bb8e103753cdac",
+    "captCha": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAAoCAIAAAC6iKlyAAADcklEQVR42u2ZX0hTcRTHBxER0WtEREgQEdFDBD1EREQQPfQQEYRED71FRA8RvUUPQZb5YKZmhUmZWVFmIvSHDObMOadzzs2ZOtbmps35Z06dOqd95cjPH9t1c6Ljtp3DuNx7fveO+/vs/L7nnN8082wpMQ0jYNAMmo1BM2gGzcagGTQbg2bQDJqNQTNotkwHfU+jXe7DoFMN2lrhe3vakre14f7GehzfnGzvKP+b6aBlTM35nqIsA+gU7zY05rgT3q9ony50Kv4MVedtagE9YBqvu+l4eaQtd7MOs8XxyZ7m6my7WxdIAeivV3ui0DTl9SULGj8VjT4/0DJonYAHR5yTs6XQqwrQcValscCz3qCf7TcOdU3OReYb7rrIU7K3OVnQZYdNNNr3ayk4cE7OF4daVQH61dE2U0n/cPfCbGEB19S3a4tRlr+tcb1BCzSz03PkwapaeTTQKB6hS5oCGc7JiTWqXo2mV3y4pYEuw6GI9rbz8c4mTAnCos91x0ZZzSW7+Hkm/TPiqyZ8M4+262kI90SBk9HECds0BD3qnPp+vZde8ccNB71x+TFz1AxlbaUHp4OzhbuayPPhrFV84cdzNnJidCowG4fpSkD/x9KhGDIPNumgJzSE7CTUU6Sap/uMsZNH/hTO9rIBeHAUHpd2ND64VYNGuotNhlB/crYWe9ULGh8UW4huDJUebCWPXIeAmuLkUcCQE5Us7sGRLn/eciQEt2rQMJRxai/vZINKeA1jFSfa6S3fn+lIqIBRk4+E50RdJR6EB/51BQ2zVS41LMgulacsaGFU3bCEhsNyGkkKNC1bKI+sQrSc1wR0WrXgSFkyaCEdHv1YQukgQ/srRhFZvNexWEebSwdIjikesQBl6RDJUKQan2VcMRmSddcMRbHoqR3i3btlgwXV2EhviFRCqHac8k7IjqiaUXfTScEOPfyZDrrfGPxypRsRCi3O2bCw74XFjoYYdbG4B21b/Z0/1LCgGkGMI7kptgOibSnKMgS906Kyrs628370aqzz3SARfH3cLJy/q/0izJ11I/DgKDxdVX4GncDQGaJUosYa0Y1z9NmED8RjRQNLRDwr75zIrTmDTkLH5Tbk88Ul0ZBlZ2YiArVJVwFZY9Ao7Govd0FwURTThjUuIe7zGW/85yyDZtBsDJpBM2hGkBr7B65rCfURm+bYAAAAAElFTkSuQmCC",
+    "respCode": "0"
+  },
+  "login": {
+    "respCode": "00",
+    "respDesc": "SUCCESS",
+    "token": "c5058a59b3fee74b59bb8e103753cdac"
+  },
+  "logout": {
+    "respCode": "00",
+    "respDesc": "SUCCESS"
+  },
+  "getListYeuCauInfo": {
+    "respRaw": {
+      "fundRegulation": [
+        {
+          "branchCreate": "001",
+          "id": "371",
+          "locationStart": "sdad",
+          "locationEnd": "CHO_XU_LY",
+          "transactionID": "ATKQ08210274"
+        },
+        {
+          "branchCreate": "001",
+          "id": "340",
+          "locationStart": "",
+          "locationEnd": "",
+          "transactionID": "ATKQ08210243"
+        }
+      ],
+      "exchangeAndWithdraw": [
+        {
+          "branchCreate": "001",
+          "id": "369",
+          "locationStart": "axcv",
+          "locationEnd": "CHO_XU_LY",
+          "transactionID": "ATKQ08210272"
+        },
+        {
+          "branchCreate": "002",
+          "id": "172",
+          "locationStart": "",
+          "locationEnd": "",
+          "transactionID": "ATKQ08210093"
+        }
+      ],
+      "sourceAndFundReport": [
+        {
+          "branchCreate": "",
+          "id": "142",
+          "locationStart": "",
+          "locationEnd": "HUY",
+          "transactionID": "ATKQ08210065"
+        },
+        {
+          "branchCreate": "",
+          "id": "146",
+          "locationStart": "",
+          "locationEnd": "HUY",
+          "transactionID": "ATKQ08210067"
+        }
+      ],
+      "incomeAndExpenditure": [
+        {
+          "branchCreate": "",
+          "id": "105",
+          "locationStart": "",
+          "locationEnd": "HUY",
+          "transactionID": "ATKQ08210028"
+        },
+        {
+          "branchCreate": "",
+          "id": "106",
+          "locationStart": "",
+          "locationEnd": "HUY",
+          "transactionID": "ATKQ08210029"
+        }
+      ]
+    },
+    "respDesc": "SUCCESS",
+    "respCode": "0"
+  },
+  "getListDetailsYeuCauInfo1": {
+    "respRaw": {
+      "driver": [
+        {
+          "phone": "TIEP_QUY",
+          "name": "TIEP_QUY",
+          "plateNumber": "TIEP_QUY",
+          "user": "TIEP_QUY"
+        }
+      ],
+      "mainContent": [
+        {
+          "codeRequest": "TIEP_QUY",
+          "note": "TIEP_QUY",
+          "fileName": "TIEP_QUY",
+          "totalTransaction": 87,
+          "branchTopup": "TIEP_QUY",
+          "transactionCode": "TIEP_QUY",
+          "type": "TIEP_QUY",
+          "transactionId": "TIEP_QUY",
+          "amountTopup": "TIEP_QUY",
+          "content": "TIEP_QUY",
+          "reasonTopUp": "TIEP_QUY",
+          "dateTopup": "TIEP_QUY",
+          "atmLocation": "TIEP_QUY",
+          "atmName": "TIEP_QUY",
+          "status": "TIEP_QUY"
+        }
+      ],
+      "fundStarff": [
+        {
+          "phone": "TIEP_QUY",
+          "name": "TIEP_QUY",
+          "user": "TIEP_QUY"
+        }
+      ]
+    },
+    "respDesc": "SUCCESS",
+    "respCode": "0"
+  },
+  "getListDetailsYeuCauInfo2": {
+    "respRaw": {
+      "driver": [
+        {
+          "phone": "THU_CHI",
+          "name": "THU_CHI",
+          "plateNumber": "THU_CHI",
+          "user": "THU_CHI"
+        }
+      ],
+      "mainContent": [
+        {
+          "codeRequest": "THU_CHI",
+          "date": "THU_CHI",
+          "note": "THU_CHI",
+          "amount": "THU_CHI",
+          "fileName": "THU_CHI",
+          "totalTransaction": 105,
+          "transactionCode": "THU_CHI",
+          "type": "THU_CHI",
+          "accountNumber": "THU_CHI",
+          "locationStart": "THU_CHI",
+          "locationEnd": "THU_CHI",
+          "transactionId": "THU_CHI",
+          "customerName": "THU_CHI",
+          "content": "THU_CHI",
+          "customerID": "THU_CHI",
+          "status": "THU_CHI"
+        }
+      ],
+      "fundStarff": [
+        {
+          "phone": "THU_CHI",
+          "name": "THU_CHI",
+          "user": "THU_CHI"
+        }
+      ]
+    },
+    "respDesc": "SUCCESS",
+    "respCode": "0"
+  },
+  "getListDetailsYeuCauInfo3": {
+    "respRaw": {
+      "driver": [
+        {
+          "phone": "DIEU_QUY",
+          "name": "DIEU_QUY",
+          "plateNumber": "DIEU_QUY",
+          "user": "DIEU_QUY"
+        }
+      ],
+      "mainContent": [
+        {
+          "codeRequest": "DIEU_QUY",
+          "date": "DIEU_QUY",
+          "note": "DIEU_QUY",
+          "amount": "DIEU_QUY",
+          "fileName": "DIEU_QUY",
+          "totalTransaction": 206,
+          "transactionCode": "DIEU_QUY",
+          "type": "DIEU_QUY",
+          "branchSend": "DIEU_QUY",
+          "locationStart": "DIEU_QUY",
+          "locationEnd": "DIEU_QUY",
+          "transactionId": "DIEU_QUY",
+          "content": "DIEU_QUY",
+          "branchRecived": "DIEU_QUY",
+          "status": "DIEU_QUY"
+        }
+      ],
+      "fundStarff": [
+        {
+          "phone": "DIEU_QUY",
+          "name": "DIEU_QUY",
+          "user": "DIEU_QUY"
+        }
+      ]
+    },
+    "respDesc": "SUCCESS",
+    "respCode": "0"
+  },
+  "getListDetailsYeuCauInfo4": {
+    "respRaw": {
+      "driver": [
+        {
+          "phone": "DIEU_NGUON",
+          "name": "DIEU_NGUON",
+          "plateNumber": "DIEU_NGUON",
+          "user": "DIEU_NGUON"
+        }
+      ],
+      "mainContent": [
+        {
+          "codeRequest": "DIEU_NGUON",
+          "date": "DIEU_NGUON",
+          "note": "DIEU_NGUON",
+          "amount": "DIEU_NGUON",
+          "fileName": "DIEU_NGUON",
+          "totalTransaction": 142,
+          "transactionCode": "DIEU_NGUON",
+          "type": "DIEU_NGUON",
+          "locationStart": "DIEU_NGUON",
+          "locationEnd": "DIEU_NGUON",
+          "branch": "DIEU_NGUON",
+          "transactionId": "DIEU_NGUON",
+          "customerName": "DIEU_NGUON",
+          "content": "DIEU_NGUON",
+          "customerID": "DIEU_NGUON",
+          "status": "DIEU_NGUON"
+        }
+      ],
+      "fundStarff": [
+        {
+          "phone": "DIEU_NGUON",
+          "name": "DIEU_NGUON",
+          "user": "DIEU_NGUON"
+        }
+      ]
+    },
+    "respDesc": "SUCCESS",
+    "respCode": "0"
+  },
+  "getListDetailsYeuCauInfo5": {
+    "respRaw": {
+      "driver": [
+        {
+          "phone": "DOI_MAT_LNH_NOP_RUT_NHNN",
+          "name": "DOI_MAT_LNH_NOP_RUT_NHNN",
+          "plateNumber": "DOI_MAT_LNH_NOP_RUT_NHNN",
+          "user": "DOI_MAT_LNH_NOP_RUT_NHNN"
+        }
+      ],
+      "mainContent": [
+        {
+          "codeRequest": "DOI_MAT_LNH_NOP_RUT_NHNN",
+          "date": "DOI_MAT_LNH_NOP_RUT_NHNN",
+          "note": "DOI_MAT_LNH_NOP_RUT_NHNN",
+          "amount": "DOI_MAT_LNH_NOP_RUT_NHNN",
+          "fileName": "DOI_MAT_LNH_NOP_RUT_NHNN",
+          "totalTransaction": 369,
+          "bankTranfer": "DOI_MAT_LNH_NOP_RUT_NHNN",
+          "transactionCode": "DOI_MAT_LNH_NOP_RUT_NHNN",
+          "type": "DOI_MAT_LNH_NOP_RUT_NHNN",
+          "locationStart": "DOI_MAT_LNH_NOP_RUT_NHNN",
+          "transactionId": "DOI_MAT_LNH_NOP_RUT_NHNN",
+          "content": "DOI_MAT_LNH_NOP_RUT_NHNN",
+          "status": "DOI_MAT_LNH_NOP_RUT_NHNN"
+        }
+      ],
+      "fundStarff": [
+        {
+          "phone": "DOI_MAT_LNH_NOP_RUT_NHNN",
+          "name": "DOI_MAT_LNH_NOP_RUT_NHNN",
+          "user": "DOI_MAT_LNH_NOP_RUT_NHNN"
+        }
+      ]
+    },
+    "respDesc": "SUCCESS",
+    "respCode": "0"
+  },
+  "uploadFile": {
+    "respCode": "00",
+    "respDesc": "SUCCESS",
+    "fileId": "c5058a59b3fee74b59bb8e103753cdac"
+  },
+  "updateStatusGiaoDich": {
+    "respCode": "00",
+    "respDesc": "SUCCESS"
+  }
+}
